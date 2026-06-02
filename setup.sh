@@ -148,10 +148,11 @@ tags:
   - AI
   - GPT5
   - Vision
-
+  - lmlm
+  
 pricing:
-  current: 49
-  old: 99
+  current: 
+  old: 
   currency: "USD"
 
 media:
@@ -264,4 +265,6 @@ echo "npm run dev"
 echo ""
 echo "Open:"
 echo ""
-echo "http://localhost:3000"
+echo "https://127.0.0.1:3000"
+mkdir my-astrohttps://github.com/auraecosystem/web4profiler
+cd web4
